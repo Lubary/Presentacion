@@ -10,7 +10,7 @@
   
 ## 🛠️ Mis Tecnologías en aprendizaje
 - **Lenguajes:** Python y Ladder
-- 
+  
 - **Herramientas:** Git, GitHub, VSCode, thonny.
 
 ## 📫 Cómo contactarme
