@@ -8,6 +8,8 @@
 - ⚡ En el futuro quiero hacer la ingenieria electronica y automatica industrial
 - 🌱 Me interesa profundizar en: Electronica, Programacion, apps para mejorar con el codigo
 
+- * 🎓 [Conoce mis Estudios y Certificaciones](./algo.md)
+
   
 ## 🛠️ Mis Tecnologías en aprendizaje
 - **Lenguajes:** Python y Ladder
