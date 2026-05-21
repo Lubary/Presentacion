@@ -1,4 +1,4 @@
-![Contador de Visitas](https://profile-counter.glitch.me/Lubary/count.svg)
+![Visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLubary%2FLubary&count_bg=%2379C60F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitas&edge_flat=false)
 
 # ¡Hola! Soy Lubary 👋
 
