@@ -2,8 +2,7 @@
 
 # 🎓 Mis Estudios y Trayectoria
 
-![Visitas](https://komarev.com/ghpvc/?username=Lubary&color=blue&style=for-the-badge) &nbsp;
-![Estudios Badge](https://img.shields.io/badge/Formaci%C3%B3n-Activa-blue?style=for-the-badge&logo=gitbook&logoColor=white)
+
 
 </div>
 
