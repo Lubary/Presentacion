@@ -14,11 +14,11 @@
 
 </details>
 
-## 📜 Cursos y Certificados Complementarios
+##<summary> 📜<b> Cursos y Certificados Complementarios</b>  </summary>
 
 - 🏅 **Responsive Web Design Certification** — *freeCodeCamp* (`Julio 2024`)
 - 🏅 **JavaScript moderno ES6+** — *Academia Dev* (`Septiembre 2024`)
-
+<br />
 ## 🛠️ Proyectos y Laboratorios Realizados
 
 ### 🚀 ASTI ROBOTICS CHALLENGE
