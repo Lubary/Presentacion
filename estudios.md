@@ -2,17 +2,7 @@
 
 # 🎓 Mis Estudios y Trayectoria
 
-
-
 </div>
-
-### Hola, soy Alexander Fernandez Lubary 👋
-
-> **Tecnico en Automatizacion industrial y robotica**
-
-AAAA texto
-
-***
 
 ## 🏫 Historial de Formación
 
